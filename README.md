@@ -14,6 +14,16 @@
   newflasher
  Fastboot 刷机
   解锁Bootloader
-   日版和其他部分运营商定制版：Bootloader unlock allow : No
+   备份TA
+   获取解锁码
+   Fastboot解锁
+    日版和其他部分运营商定制版：Bootloader unlock allow : No
   刷第三方ROM
   获取Root权限
+ 运营商定制版设备VOLTE的实现（ 支持5G的设备似乎默认支持全地区VOLTE
+  已解Bl
+  未解锁Bl
+   漏洞临时Root
+   刷指定地区固件里的OEM
+    可用设备：Xperia 1/5
+    副作用：无法通过SafetyNet
