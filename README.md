@@ -18,6 +18,7 @@
    获取解锁码
    Fastboot解锁
     日版和其他部分运营商定制版：Bootloader unlock allow : No
+    Yes after SIM UNLOCK
   刷第三方ROM
   获取Root权限
  运营商定制版设备VOLTE的实现（ 支持5G的设备似乎默认支持全地区VOLTE
