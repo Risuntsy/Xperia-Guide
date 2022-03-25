@@ -1,0 +1,38 @@
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-lboi{border-color:inherit;text-align:left;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-lboi">运营商</th>
+    <th class="tg-lboi">Ntt Docomo</th>
+    <th class="tg-lboi">AU/KDDI</th>
+    <th class="tg-lboi">SoftBank</th>
+    <th class="tg-lboi">单卡有锁</th>
+    <th class="tg-lboi">单卡无锁</th>
+    <th class="tg-lboi">双卡无锁</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-lboi">外观</td>
+    <td class="tg-lboi" colspan="2">机身印有运营商标识和型号</td>
+    <td class="tg-lboi" colspan="4">外观与公开版相同</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">NFC芯片</td>
+    <td class="tg-lboi" colspan="3">Sony/NXP，支持Felica</td>
+    <td class="tg-lboi" colspan="3">NXP，不支持Felica</td>
+  </tr>
+  <tr>
+    <td class="tg-lboi">ROM/RAM</td>
+    <td class="tg-lboi" colspan="5">部分型号阉割RAM或ROM</td>
+    <td class="tg-lboi">国行部分型号特供大内存</td>
+  </tr>
+</tbody>
+</table>
