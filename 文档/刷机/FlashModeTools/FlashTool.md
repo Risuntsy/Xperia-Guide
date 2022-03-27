@@ -1,0 +1,1 @@
+从 [FlashTool](http://www.flashtool.net/index.php) 官网下载 **最新版** FlashTool

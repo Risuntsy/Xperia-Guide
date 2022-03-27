@@ -1,4 +1,6 @@
-# 蓝灯 (Fastboot)
+# 蓝灯模式 (也就是Fastboot模式)
+
+处于该模式时手机呼吸灯为蓝色
 
 特点:
 
@@ -8,7 +10,7 @@
 
 ## 解锁BL
 
-<font color=#FFB6C1 > **注意：解锁可能导致设备永久损坏，或将失去官方保修，解锁前请三思！！<br> 不要觉得回锁就没事了，解锁了一定会有记录** </font>
+<font color=#FFB6C1 > **注意：解锁后容易导致设备永久损坏，解锁或将失去官方保修，解锁前请三思！！<br> 不要觉得回锁就没事了，解锁了一定会有记录** </font>
 
 解锁前，请先检查设备解锁允许状态:  
    * 打开拨号，拨号 *#*#7378423#*#* ( 7378423也就是9键的Service )
@@ -44,7 +46,7 @@ fastboot具体使用方法可以调用Fastboot，看Fastboot的介绍
     fastboot devices                        # 查看已连接的设备
     fastboot oem unlock 0x<你的解锁码>       # 解锁BL, 0x后面直接输入解锁码，没有<>
     fastboot oem lock                       # 回锁BL ( 仅部分设备可用 )
-    fastboot -w                             # 清楚数据
+    fastboot -w                             # 清除数据
     fastboot getvar current-slot            # 查看当前活动分区
     fastboot --set-active=a                 # 切换活动分区为a分区, b同理
     fastboot flash <分区名> <分区文件路径>    # 刷写分区
