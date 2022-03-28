@@ -14,4 +14,5 @@
 2. 打开 **设备管理器** , 找到自己的设备，如果没装过驱动的话应该是带有黄色感叹号的 *Android*  
     比如:  
     ![Android](https://raw.githubusercontent.com/Risuntsy/test.test/main/Screenshot%202022-03-25%20164423.png)
-
+3. 右击设备选择 "**更新驱动程序**"
+4. 选择从
