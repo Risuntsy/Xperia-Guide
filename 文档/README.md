@@ -16,4 +16,12 @@
 
 1. [入门](./入门/README.md)
     1. 1  [验机](./入门/验机.md)
+    2. 2  [索移大事记](./入门/EVENTs.md)
 2. [刷机](./刷机/README.md)
+    1. [绿灯](./刷机/Flashmode.md)
+        1. [xflasher](./刷机/FlashModeTools/xFlasher.md)
+        2. [newflasher](./刷机/FlashModeTools/newflasher.md)
+        3. [FlashTool](./刷机/FlashModeTools/FlashTool.md)
+        4. [Xperia Companion](./刷机/FlashModeTools/Xperia%20Companion.md)
+        5. [Sony Emma](./刷机/FlashModeTools/Sony%20Emma.md)
+    2. [蓝灯](./刷机/Fastboot.md)
