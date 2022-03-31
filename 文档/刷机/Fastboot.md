@@ -12,9 +12,27 @@
 
 手机 **关机后** 按住按键 **音量加** ，数据线连接电脑和手机的USB接口
 
+## Fastboot工具
+
+*Windows下需要 [安装驱动](./Driver.md)*
+
+**最新版 platform-tools :**
+[Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) ,
+[Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)  ,
+[Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)<br>
+下载解压后在fastboot所在目录打开终端运行即可  
+Windows按住Shift右击即可打开CMD或者PowerShell
+
+Windows PowerShell 需要在命令前加上 .\，比如:
+
+    .\fastboot <具体命令>
+
+非Windows用户建议用自带的软件包管理器从官方源安装  
+ ( 绝大多数Linux发行版官方源里都有 )<br>
+
 ## 解锁BL
 
-<font color=#FFB6C1 > **部分设备解锁前可以选择备份TA , 具体可以看: [备份TA]()** </font>
+<font color=#FFB6C1 > **部分设备解锁前可以选择备份TA , 具体可以看: [备份TA](./BackupTA.md)** </font>
 
 <font color=#FFB6C1 > **注意：  
 &emsp;&emsp;&emsp;解锁了一定会有记录  
@@ -31,22 +49,6 @@
     如果是 **Yes after SIM UNLOCK** 则在解除网络锁后可正常解锁
 
 ## 刷机
-
-工具: 谷歌官方的 platform-tools  
-*Windows下需要 [安装驱动](./Driver.md)*
-
-**最新版 platform-tools :**
-[Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) ,
-[Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)  ,
-[Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)<br>
-下载解压后在fastboot所在目录打开终端运行即可  
-
-Windows PowerShell ( cmd不需要加 .\ ) :
-
-    .\fastboot <具体命令>
-
-非Windows用户建议用自带的软件包管理器从官方源安装  
- ( 绝大多数Linux发行版官方源里都有 )<br>
 
 fastboot具体使用方法可以调用Fastboot，看Fastboot的介绍
 
