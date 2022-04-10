@@ -1,11 +1,12 @@
-  - **从Xperifirm上下载对应型号的固件，Windows下需提前装好绿灯(FlashMode)驱动**  
-      如果你想用newflasher刷打包成FTF格式的固件，需要一些改动[<sup> 1</sup>](#refer-anchor-1)
-  - **连接数据线到电脑, 手机完全关机后按住<font color=#FFB6C1 > 音量减 </font>连接数据线**
-  - **待手机呼吸灯变成绿灯，且能在连接的usb设备里找到你的设备，就连接成功了，Windows可以到设备管理器里找到SMOC Flash Device**
-  - **去下载<font color=#FFB6C1 > 最新版 </font> newflasher ，把压缩包里对应系统的newflasher程序放到固件文件夹里**  
-      (比如Windows/arm64安卓/Linux-x86_64/Mac 应使用的对应的后缀是exe/arm64/x64/darwin64) 
-  - **(仅Win?)直接运行newflasher程序，或者在终端里运行。根据newflasher提示刷机**
-  - **newflasher刷完会自动将设备启动到一开始选择的模式 (部分设备似乎没效果...) ，如果刷完没有报错也没有重启可以拔掉数据线手动重启**
+0. 安装绿灯(FlashMode)驱动(仅Windows需要)
+1. 从Xperifirm上下载对应型号的固件  
+如果你想用newflasher刷打包成FTF格式的固件，需要一些改动[<sup> 1</sup>](#refer-anchor-1)
+2. 去下载<font color=#FFB6C1 > 最新版 </font> [newflasher](https://forum.xda-developers.com/t/tool-newflasher-xperia-command-line-flasher.3619426/) ，把压缩包里对应系统的newflasher程序放到固件文件夹里  
+(比如Windows/arm64安卓/Linux-x86_64/Mac 应使用的对应的后缀是exe/arm64/x64/darwin64)
+3. 连接数据线到电脑, 手机完全关机后按住<font color=#FFB6C1 > 音量减 </font>连接数据线
+4. 待手机呼吸灯变成绿灯，且能在连接的usb设备里找到你的设备，就连接成功了，Windows可以到设备管理器里找到SMOC Flash Device
+5. (仅Windows)运行newflasher程序，或者在终端里运行。根据newflasher提示刷机
+6. newflasher刷完会自动将设备启动到一开始选择的模式 (部分设备似乎没效果...) ，如果刷完没有报错也没有重启可以拔掉数据线手动重启...
 
 ----
 
