@@ -23,8 +23,11 @@ TA 是 **所有** 索尼手机都有的一个[分区](https://segmentfault.com/a
 
 注意:
 
-* 骁龙845处理器平台的设备 ( 即XZ2、XZ2C、XZ2P、XZ3 )即使备份且恢复了TA，DRM功能也不能使用
-* 骁龙855以及之后的处理器平台的设备 ( 即Xperia 1/5以及之后 ) 的设备 **没有必要** 备份TA, 使用fastboot回锁后会恢复DRM密钥
+
+<font color=#FFB6C1 > <b> 注意：   
+*  骁龙845处理器平台的设备 ( 即XZ2、XZ2C、XZ2P、XZ3 )即使备份且恢复了TA，DRM功能也不能使用  
+*  骁龙855以及之后的处理器平台的设备 ( 即Xperia 1/5以及之后 ) 的设备 **没有必要** 备份TA, 使用fastboot回锁后会恢复DRM密钥  
+( 甚至隐藏解锁状态就可以正常使用部分功能 </b> </font>
 
 [Dirtycow-based TA Dumper for Sony Xperia Devices. (v2.0)](https://forum.xda-developers.com/t/universal-dirtycow-based-ta-backup-v2.3514236/)  
 可用于:  
