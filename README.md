@@ -2,6 +2,15 @@
 
 ## 画饼
 
+Xperia Enents
+
+解锁
+DRM L1 > L3 Netflix
+Safetynet
+
+XFLASHER
+Emma
+XC
 
 Fastboot 刷机    
   刷第三方ROM  
