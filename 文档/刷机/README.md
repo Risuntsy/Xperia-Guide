@@ -9,8 +9,8 @@
 索尼一般 **只能** 用这两种模式: <br>
  ( 点击蓝色部分查看具体模式介绍 )
 
-1. [绿灯模式 ( SOMC Flash Mode )](./Flashmode.mdFlashmode.md)
+1. [绿灯模式 ( SOMC Flash Mode )](./Doc/Flashmode.md)
 
-2. [蓝灯模式 ( Fastboot )](./Fastboot.md)
+2. [蓝灯模式 ( Fastboot )](./Doc/Fastboot.md)
 
-Windows下需要在刷机前先 [安装驱动程序](./Driver.md)
+Windows下需要在刷机前先 [安装驱动程序](./Doc/Driver.md)
