@@ -20,13 +20,13 @@
 *( 点击蓝色链接查看具体使用方法 )*
 
 *   [xflasher](./FlashModeTools/xFlasher.md)  
-    仅支持17年之前的设备
+    仅支持2017年之前的设备
 
 *   [newflasher](./FlashModeTools/newflasher.md) (建议支持的设备使用)  
-    仅支持17年及之后的设备
+    仅支持2017年及之后的设备
 
 *   [FlashTool](./FlashModeTools/FlashTool.md)  
-    界面友好, 但有些兼容性问题, 且年久失修
+    界面友好, 但年久失修, 有些不少小问题
 
 *   [Xperia Companion](./FlashModeTools/Xperia%20Companion.md)  
     索尼官方的刷机工具, 仅支持BL锁定的设备

@@ -2,10 +2,9 @@
 
 ## 画饼
 
-Xperia Enents
+Xperia Events
 
 解锁
-DRM L1 > L3 Netflix
 Safetynet
 
 XFLASHER
