@@ -19,17 +19,17 @@
 
 *( 点击蓝色链接查看具体使用方法 )*
 
-*   [xflasher](./FlashModeTools/xFlasher.md)  
+*   [xflasher](./Tools/xFlasher.md)
     仅支持2017年之前的设备
 
-*   [newflasher](./FlashModeTools/newflasher.md) (建议支持的设备使用)  
+*   [newflasher](./Tools/newflasher.md) (建议支持的设备使用)
     仅支持2017年及之后的设备
 
-*   [FlashTool](./FlashModeTools/FlashTool.md)  
+*   [FlashTool](./Tools/FlashTool.md)
     界面友好, 但年久失修, 有些不少小问题
 
-*   [Xperia Companion](./FlashModeTools/Xperia%20Companion.md)  
+*   [Xperia Companion](./Tools/Xperia%20Companion.md)
     索尼官方的刷机工具, 仅支持BL锁定的设备
 
-*   [Sony Emma](./FlashModeTools/Sony%20Emma.md)  
+*   [Sony Emma](./Tools/Sony%20Emma.md)
     索尼官方的刷机工具, 仅支持已解锁BL的设备, 一般只有公开版设备的固件, 且型号不全
