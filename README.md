@@ -1,5 +1,8 @@
 # Xperia-Guide
 
+## 正文
+[点击查看](./文档/README.md)
+
 ## 画饼
 
 Xperia Events
