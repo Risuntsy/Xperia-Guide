@@ -7,6 +7,8 @@
 
 Xperia Events
 
+部分机器降级需解锁
+
 解锁
 Safetynet
 
