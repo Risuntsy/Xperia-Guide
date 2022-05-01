@@ -5,6 +5,8 @@
 
 ## 画饼
 
+免ROOT使用Android设备进行刷机相关操作
+
 Xperia Events
 
 部分机器降级需解锁
