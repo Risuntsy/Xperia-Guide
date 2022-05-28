@@ -28,6 +28,7 @@
             1. 
     2. [索移大事记](./入门/EVENTs.md) (饼)
 2. [刷机](./刷机/README.md)
+<<<<<<< HEAD
     1. [绿灯](./刷机/Doc/Flashmode.md)
         1. [xflasher](./刷机/Doc/FlashModeTools/xFlasher.md)
         2. [newflasher](./刷机/Doc/FlashModeTools/newflasher.md)
@@ -36,3 +37,14 @@
         5. [Sony Emma](./刷机/Doc/FlashModeTools/Sony%20Emma.md)
     2. [蓝灯](./刷机/Doc/Fastboot.md)
     3. [QPST修改基带](./刷机/Doc/modem.md) (饼)
+=======
+    1. [绿灯](./刷机/Doc/FlashMode/Flashmode.md)
+        1. [xflasher](./刷机/Doc/FlashMode/Tools/xFlasher.md)
+        2. [newflasher](./刷机/Doc/FlashMode/Tools/newflasher.md)
+        3. [FlashTool](./刷机/Doc/FlashMode/Tools/FlashTool.md)
+        4. [Xperia Companion](./刷机/Doc/FlashMode/Tools/Xperia%20Companion.md)
+        5. [Sony Emma](./刷机/Doc/FlashMode/Tools/Sony%20Emma.md)
+    2. [蓝灯](./刷机/Doc/Fastboot/Fastboot.md)
+    3. [QPST修改基带](./刷机/Doc/modem.md) (饼)
+    4. [修改OEM分区]()  (饼)
+>>>>>>> 461dc864922101e436025d10cbe130bb9357ac98
