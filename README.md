@@ -1,7 +1,7 @@
 # Xperia-Guide
 
 ## 正文
-[点击查看](./文档/README.md)
+[点击查看](./doc/README.md)
 
 ## 画饼
 

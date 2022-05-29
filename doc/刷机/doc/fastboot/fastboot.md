@@ -12,11 +12,7 @@
 
 ## 查看设备解锁允许
 
-<<<<<<< HEAD:文档/刷机/Doc/Fastboot.md
-解锁前，需先检查设备解锁允许状态:  
-=======
 [解锁](#解锁bl)前，需先检查设备解锁允许状态:  
->>>>>>> 461dc864922101e436025d10cbe130bb9357ac98:文档/刷机/Doc/Fastboot/Fastboot.md
 
 * 打开拨号，拨号 **\*#\*#7378423#\*#\*** ( 7378423也就是9键的 Service )
 * 在打开的页面依次点击 **Service info** > **Configuration** , 查看 **Rooting Status**
@@ -26,13 +22,9 @@
 
 ## 部署ADB&&Fastboot环境
 
-<<<<<<< HEAD:文档/刷机/Doc/Fastboot.md
-*Windows下需要 [安装驱动](./Driver.md)*
-=======
 *Windows系统需要在刷机前 [安装驱动](./Driver.md)*
->>>>>>> 461dc864922101e436025d10cbe130bb9357ac98:文档/刷机/Doc/Fastboot/Fastboot.md
 
-**最新版 platform-tools :**
+**最新版 *platform-tools* :**
 [Windows](https://dl.google.com/android/repository/platform-tools-latest-windows.zip) ,
 [Mac](https://dl.google.com/android/repository/platform-tools-latest-darwin.zip)  ,
 [Linux](https://dl.google.com/android/repository/platform-tools-latest-linux.zip)<br>
@@ -50,10 +42,7 @@ Linux用户建议用自带的软件包管理器从官方源安装
 ## 进入Fastboot模式
 
 Fastboot相关的操作都是手机在Fastboot模式下进行的  
-<<<<<<< HEAD:文档/刷机/Doc/Fastboot.md
-=======
 
->>>>>>> 461dc864922101e436025d10cbe130bb9357ac98:文档/刷机/Doc/Fastboot/Fastboot.md
 进入Fastboot模式:  
 手机 **关机后** 按住按键 **音量加** ，数据线连接电脑和手机的USB接口 , 待手机呼吸灯变成**蓝色** 并且能在连接的USB设备里找到你的设备，就连接成功了
 
@@ -67,11 +56,9 @@ Fastboot相关的操作都是手机在Fastboot模式下进行的
 * 解锁前请三思！
  </b> </font>
 
-<<<<<<< HEAD:文档/刷机/Doc/Fastboot.md
-步骤 : 
-=======
+
 解锁步骤 : 
->>>>>>> 461dc864922101e436025d10cbe130bb9357ac98:文档/刷机/Doc/Fastboot/Fastboot.md
+
 1. [确定自己的设备可以解锁](#查看设备解锁允许)
 2. 到 [索尼官网](https://developer.sony.com/develop/open-devices/get-started/unlock-bootloader) 获取解锁码  
     * 需要科学上网，否则可能出现人机验证且一直失败
@@ -86,23 +73,20 @@ Fastboot相关的操作都是手机在Fastboot模式下进行的
 
 ## Fastboot 刷机
 
-<<<<<<< HEAD:文档/刷机/Doc/Fastboot.md
-fastboot具体使用方法可以调用Fastboot，看Fastboot的介绍
-=======
 fastboot具体使用方法可以调用Fastboot，可以在[部署环境](#部署adbfastboot环境)后看Fastboot的介绍
->>>>>>> 461dc864922101e436025d10cbe130bb9357ac98:文档/刷机/Doc/Fastboot/Fastboot.md
+
 
     fastboot --help
 
 这里只列举几个我认为常用的命令:  
 
     fastboot devices                        # 查看已连接的设备
-    fastboot oem unlock 0x<你的解锁码>       # 解锁BL, 0x后面直接输入解锁码，没有<>
+    fastboot oem unlock 0x<你的解锁码>      # 解锁BL, 0x后面直接输入解锁码，
     fastboot oem lock                       # 回锁BL ( 仅部分设备可用 )
     fastboot -w                             # 清除数据
     fastboot getvar current-slot            # 查看当前活动分区
     fastboot --set-active=a                 # 切换活动分区为a分区, b同理
-    fastboot flash <分区名> <分区文件路径>    # 刷写分区
+    fastboot flash <分区名> <分区文件路径>  # 刷写分区
     fastboot --disable-verity --disable-verification flash vbmeta <官方固件里的vbmeta分区镜像>      # 关闭DM校验
 
 ## ROOT ( 可选 )
