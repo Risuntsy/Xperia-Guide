@@ -3,7 +3,7 @@
 ## 绿灯驱动
 [点击下载](https://lanzou.com/ituOB01p00mj)
 
-32位系统安装 **x86** , 64位系统安装 **x64** , 直接运行安装程序即可。
+32位系统安装 **x86** , 64位系统安装 **x64** , 直接运行安装程序根据向导完成(一直下一步 next XD )即可。
 
 ## ADB & Fastboot 驱动
 
@@ -23,34 +23,34 @@
 9. "**打开解压好的驱动文件夹目录，选择里面的inf文件打开**"
 10. "**确定**"
 11. "**选择对应的驱动后点击下一页并确定安装**"
-12. "**安装完成**"
+12. **安装完成**
 
 
 图片步骤:  
 
-![Android](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/1.2.png)
+![Android](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/1.2.png)
 
-![S1Boot Fastboot](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/1.1.png)
+![S1Boot Fastboot](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/1.1.png)
 
-![更新驱动程序](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/1.3.png)
+![更新驱动程序](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/1.3.png)
 
-![浏览我的电脑以查找驱动程序](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/2.png)
+![浏览我的电脑以查找驱动程序](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/2.png)
 
-![让我从计算机上的可用驱动程序列表中选取](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/3.png)
+![让我从计算机上的可用驱动程序列表中选取](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/3.png)
 
-![显示所有设备](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/4.png)
+![显示所有设备](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/4.png)
 
-![从磁盘安装](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/5.png)
+![从磁盘安装](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/5.png)
 
-![浏览](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/6.png)
+![浏览](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/6.png)
 
-![打开解压好的驱动文件夹目录，选择里面的inf文件打开](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/7.png)
+![打开解压好的驱动文件夹目录，选择里面的inf文件打开](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/7.png)
 
-![确定](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/8.png)
+![确定](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/8.png)
 
-![选择对应的驱动后点击下一页并](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/9.png)
+![选择对应的驱动后点击下一页并](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/9.png)
 
-![确定](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/10.png)
+![确定](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/10.png)
 
-![安装完成](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/%E6%96%87%E6%A1%A3/%E5%88%B7%E6%9C%BA/Doc/Driver/CN/11.png)
+![安装完成](https://raw.githubusercontent.com/Risuntsy/Xperia-Guide/main/doc/%E5%88%B7%E6%9C%BA/doc/driver/CN/11.png)
 
